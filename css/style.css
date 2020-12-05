@@ -1,0 +1,72 @@
+.bgcolor{
+    background: url("../img/numbers-getty.webp");
+}
+.hcolor{
+    font-size: 80px;
+    font-weight: bolder;
+    color: greenyellow;
+}
+.addcolor{
+    background: url("../img/add\ new.png") no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.addhcolor{
+    font-size: 40px;
+    font-weight: bold;
+}
+.subcolor{
+    background: url("../img/sub\ new.jpg") no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.subclor{
+    font-size: 80px;
+    font-weight: bolder;
+    color: green;
+}
+.mulcolor{
+    background: url("../img/mul\ new.jpg") no-repeat ;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.multcolor{
+    font-size: 80px;
+    font-weight: bolder;
+    color: hotpink;
+}
+.divcolor{
+    background: url("../img/div.jpg") no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.rcolor{
+    font-size: 80px;
+    font-weight: bolder;
+    color:rgba(235, 23, 164, 0.5);
+}
+.mcolor{
+    font-size: 40px;
+    font-weight: bolder;
+    color: hotpink;
+}
+.sucolor{
+    font-size: 55px;
+    font-weight: bolder;
+    color: green;
+}
+.dcolor{
+    font-size: 80px;
+    font-weight: bolder;
+    color: indigo ;
+}
+.dicolor{
+    font-size: 50px;
+    font-weight: bold;
+    color: indigo;
+}
+.hacolor{
+    font-size: 40px;
+    font-weight: bolder;
+    color: yellow;
+}
