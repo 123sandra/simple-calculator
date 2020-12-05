@@ -11,7 +11,7 @@
     <nav class="navbar navbar-expand-sm bg-warning navbar-light">
         <ul class="navbar-nav">
             <li class="nav-item">
-                <a class="nav-link" href="index.html">HOME</a>
+                <a class="nav-link" href="index.php">HOME</a>
               </li>
           <li class="nav-item active">
             <a class="nav-link" href="add.php">ADDITION</a>
