@@ -14,16 +14,16 @@
                 <a class="nav-link" href="index.html">HOME</a>
               </li>
           <li class="nav-item active">
-            <a class="nav-link" href="add.html">ADDITION</a>
+            <a class="nav-link" href="add.php">ADDITION</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="sub.html">SUBSTRACTION</a>
+            <a class="nav-link" href="sub.php">SUBSTRACTION</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="mul.html">MULTIPLICATION</a>
+            <a class="nav-link" href="mul.php">MULTIPLICATION</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link " href="div.html">DIVISION</a>
+            <a class="nav-link " href="div.php">DIVISION</a>
           </li>
         </ul>
       </nav>
